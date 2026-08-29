@@ -1,0 +1,8 @@
+.cursor/
+*.log
+.env
+.env.*
+*.db
+*.dbf
+*.sqlite
+*.sqlite3
